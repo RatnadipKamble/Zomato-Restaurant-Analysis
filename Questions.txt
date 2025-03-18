@@ -1,0 +1,5 @@
+What are the top 10 highest-rated restaurants?
+Which city has the most restaurants listed on Zomato?
+What is the average rating of restaurants across different cuisines?
+Which restaurants have the most reviews?
+What are the most popular cuisines based on customer ratings?.
